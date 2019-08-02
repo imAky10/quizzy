@@ -1,6 +1,8 @@
 # quizzy
 A Quiz application written in React.
 
+See the application live : quizzy-bfae1.firebaseapp.com
+
 To run the application in your pc/laptop:
    1. Download the zip of the project.
    2. Extract the project.
